@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @seagatedev
-- 👀 I’m interested in integrity
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ICP 
-- 📫 How to reach me via seagate Github
+👋 Hi
+👀 I’m interested in integrity
+🌱 I’m currently learning web development
+📫 How to reach me via Github
 
 <!---
 seagatedev/seagatedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
